@@ -1,3 +1,5 @@
+#Maurel ZODOGANHOU
+#DAY4-DJANGO-CHALLENGE
 firstName = str(input("Enter your first name:  "))
 lastName = str(input("Enter your last name : "))
 initials = firstName[0].title() + "." + lastName[0].upper()
