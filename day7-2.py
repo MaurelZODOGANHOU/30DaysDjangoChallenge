@@ -1,6 +1,6 @@
 #Maurel ZODOGANHOU
 #DAY_7-DJANGO-CHALLENGE
-#SLEEP DEBT CALCULATOR PROGRAM
+#POPIULATION PREDICTS PROGRAM
 
 # ask user to enter inputs
 population = int(input("Enter the population of organisms: "))
